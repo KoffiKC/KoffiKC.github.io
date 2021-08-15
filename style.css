@@ -1,0 +1,84 @@
+html{
+
+  background-color: #ff66ff; /* For browsers that do not support gradients */
+  background-image: linear-gradient( #66004d, white);
+}
+
+#header{
+    margin-top: 20px;
+	margin-left: 300px;
+	margin-right: 300px;
+
+	padding: 5px 15px 5px 15px;
+
+	border-radius: 15px;
+	background-color: #e0e0eb;
+
+	text-align: center;
+}
+
+#WorkXp{
+    margin-top: 20px;
+	margin-left: 300px;
+	margin-right: 300px;
+
+	padding: 5px 15px 5px 15px;
+
+	border-radius: 15px;
+	background-color: #e0e0eb;
+
+
+	text-align: left;
+}
+
+#EduXp{
+    margin-top: 20px;
+	margin-left: 300px;
+	margin-right: 300px;
+
+	padding: 5px 15px 5px 15px;
+
+	border-radius: 15px;
+	background-color: #e0e0eb;
+
+	text-align: left;
+}
+
+h1 {
+	font-size: 64px;
+    margin-top: 10px;
+	margin-bottom: -10px;
+}
+
+h2 {
+	font-size: 18px;
+    margin-top: 10px;
+
+}
+
+h3 {
+	font-size: 26px;
+    margin-top: 20px;
+	margin-bottom: -10px;
+}
+
+h4 {
+	font-size: 22px;
+    margin-top: 10px;
+	margin-bottom: -3px;
+}
+
+h6 {
+	font-size: 42px;
+    margin-top: 20px;
+	margin-bottom: -10px;
+
+    text-align: center;
+}
+
+li {
+	font-size: 18px;
+	text-align: left;
+
+    font-weight: normal;
+}
